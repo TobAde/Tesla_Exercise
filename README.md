@@ -4,7 +4,7 @@ This is a sub-project from Turing college
 
 ## Table of content
 * [General Info](#general-info)
-* [Tool](#technologies)
+* [Tools](#technologies)
 * [Status](#status)
 
 ## General Info
