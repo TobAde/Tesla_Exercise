@@ -4,11 +4,14 @@ This is a sub-project from Turing college
 
 ## Table of content
 * [General Info](#general-info)
-* [Technologies](#technologies)
+* [Tool](#technologies)
 * [Status](#status)
 
 ## General Info
-This project is an exercise from Turing college data science course. The project covers software engineering practises and focuses on the use of docstrings and unit tests. All the work required for this project were done in the turing 212 exercise.ipynb notebook.
+This sub-project covers software testing, documentation and licensing. It focuses on the use of docstrings and unit tests(pytests are used).
+
+## Tools
+* Python
 
 ## Status
 The project is complete.
